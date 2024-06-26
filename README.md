@@ -34,7 +34,9 @@ application_1/
 ** Download SpaCy Model
 Download the SpaCy model en_core_web_sm from the following link: https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-2.0.0.tar.gz
 
-3. Build and run the Docker Image:
+**after download, put the model inside web folder ".
+
+** Build and run the Docker Image:
 Open a terminal and navigate to the application_1 directory. Build the Docker image using the command "docker build" and then run the command "docker up".
 
 
